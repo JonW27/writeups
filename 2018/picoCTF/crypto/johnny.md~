@@ -1,0 +1,5 @@
+# HEEEEEEERE'S Johnny! [100pts]
+
+Problem Description: Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with `nc 2018shell1.picoctf.com 38860`. Files can be found here: [passwd](https://2018shell1.picoctf.com/static/29633d1bd5ba677d6af455cf61b18f57/passwd) [shadow](https://2018shell1.picoctf.com/static/29633d1bd5ba677d6af455cf61b18f57/shadow).
+
+Writeup: We are given two unix files and a port to connect to. We first start by connecting to the port.

@@ -1,0 +1,20 @@
+## CTF Writeups
+
+This is a collection of write-ups for the various CTFs (Capture The Flag) competitions I've attempted over the years.
+
+In case you don't know what CTFs are, [ctftime.org](ctftime.org) defines it as follows:
+
+> Capture the Flag (CTF) is a special kind of information security competitions. There are three common types of CTFs: Jeopardy, Attack-Defence and mixed.
+
+I previously hosted these writeups at [gitbook.com](gitbook.com), but creating the writeups proved to be a headache since I prefer to do them during the competition and gitbook made that slightly annoying (They're also pivoting in a different direction).
+
+If you want a local copy of these writeups run
+
+``` bash
+git clone https://github.com/Jonw27/CTF_Writeups.git
+```
+
+### On Teaming
+I'm currently looking for CTF teammates. I do mostly web with a bit of forensics. You can reach out to me at
+
+[jcw [at] vivaldi.net](mailto:jcw@vivaldi.net)
